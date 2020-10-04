@@ -1,3 +1,8 @@
+Website for Squadron Education, 
+a Bangalore based institute for Multimedia, Animation, Interior Design & CAD Designing ( Interior, Architectural, Civil, Mechanical & Electrical )
+
+Prepared by using the following resources
+
 THEME: Law - Free Bootstrap 4 Theme
 AUTHOR: ProBootstrap.com
 LICENSE: Under Creative Commons 3.0 (probootstrap.com/license)
